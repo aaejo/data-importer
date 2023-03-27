@@ -4,7 +4,6 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.Optional;
 
-import org.apache.commons.lang3.StringUtils;
 import org.apache.poi.EncryptedDocumentException;
 import org.springframework.context.annotation.Profile;
 import org.springframework.dao.DataAccessException;
