@@ -28,5 +28,4 @@ public class DataImporterApplication {
 			dataImporter.readFile(excelFile, password);
 		};
 	}
-
 }

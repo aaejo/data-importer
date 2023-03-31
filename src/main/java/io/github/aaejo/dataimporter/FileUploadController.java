@@ -14,6 +14,9 @@ import org.springframework.web.multipart.MultipartFile;
 
 import lombok.extern.slf4j.Slf4j;
 
+/**
+ * @author Omri Harary
+ */
 @Slf4j
 @RestController
 @Profile("default")
